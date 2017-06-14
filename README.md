@@ -6,6 +6,9 @@ The following actions are currently implemented:
 - Resizing an instance
 - Creating a firewall rule for an instance
 
+The complete API description can be found under: https://doc.isac.de/
+
+
 ## Example
     
     $isacConnector = new connectAPI();
